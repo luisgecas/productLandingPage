@@ -160,3 +160,21 @@ a {
     }
   }
 }
+
+footer {
+    margin-top: 30px;
+    padding: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+  }
+  
+  footer > span {
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 0.9em;
+    color: white;
+  }
+
+
